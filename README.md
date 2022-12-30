@@ -45,3 +45,18 @@ def add(x, y):
 print("If we add 7 + 7, we get; ")
 add(7,7)
 ```
+  
+## Connect with Crypto H4c3kr  
+If you would like to connect and talk about Python, Shell Scripting, Hacking, or anything else, please connect with them here;  
+**Email:** *cryptoh4ck3r@proton.me*  
+**Twitter:** *https://www.twitter.com/CryptoH4ck3r*  
+  
+If you enjoyed this content, help support the creator. They are almost out of coffee!  
+BitCoin Wallet (Recieving):  
+3QVThxXUbV4uaKBBJP1bHahZH2iJhpmncT  
+  
+Etherum Wallet (Recieving):  
+0x07a0d46097C63Ee7E66229821fc0115Bb0E2F424  
+  
+Doge Wallet (Recieving):  
+DRjYNp9JGbkFSVL5tXQqbU6y8Wy99bJA8m  
